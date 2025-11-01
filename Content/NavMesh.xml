@@ -1,0 +1,38 @@
+<navmesh>
+	<polygons>
+		<polygon>
+			<point x="-406,2179" y="-62,84876"/>
+			<point x="-226,7149" y="-136,9624"/>
+			<point x="-153,479" y="-57,58561"/>
+			<point x="-142,0555" y="102,5564"/>
+			<point x="-200,8866" y="201,8045"/>
+			<point x="-398,065" y="108,5798"/>
+		</polygon>
+		<polygon>
+			<point x="-228,4854" y="-138,0668"/>
+			<point x="-136,0777" y="-323,751"/>
+			<point x="63,92226" y="-323,751"/>
+			<point x="117,3266" y="-116,8939"/>
+			<point x="-7,346602" y="-28,19772"/>
+			<point x="-151,8484" y="-56,83372"/>
+		</polygon>
+		<polygon>
+			<point x="-21,40258" y="120,6099"/>
+			<point x="-9,890296" y="-26,63381"/>
+			<point x="116,6744" y="-118,5179"/>
+			<point x="279,1579" y="11,58733"/>
+			<point x="279,1579" y="211,5873"/>
+			<point x="79,15793" y="211,5873"/>
+		</polygon>
+	</polygons>
+	<links>
+		<link>
+			<start polygon="0" edgestart="1" edgeend="2"/>
+			<end polygon="1" edgestart="5" edgeend="0"/>
+		</link>
+		<link>
+			<start polygon="1" edgestart="3" edgeend="4"/>
+			<end polygon="2" edgestart="1" edgeend="2"/>
+		</link>
+	</links>
+</navmesh>

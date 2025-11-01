@@ -1,0 +1,11 @@
+<root>
+	<Grid>
+		<Colums value="6"/>
+		<Rows value="5"/>
+		<Row0 value="XXXXXX"/>
+		<Row1 value="OOOOOX"/>
+		<Row2 value="XOXXOX"/>
+		<Row3 value="XOOOOO"/>
+		<Row4 value="XXXXXX"/>
+	</Grid>
+</root>
